@@ -53,10 +53,7 @@ const InventoryGrid: React.FC<{ inventory: Inventory }> = ({ inventory }) => {
             if(index < 5 && inventory.type==='player') {
               return ''
             }
-            if (item.name !== 'carkey' ){
-              if(item.name !== 'motelkey'){
             return <InventorySlot key={`${inventory.type}-${inventory.id}-${item.slot}`} item={item} inventory={inventory} />
-          }}
           })}
             {inventory.type === 'player' && createPortal(<InventoryContext />, document.body)} 
           </> 
