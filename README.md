@@ -1,6 +1,12 @@
 <div align='center'><img src='https://cdn.discordapp.com/attachments/1087364373288321134/1111380215046873200/20230526002859_1.jpg'/></div>
 <div align='center'><h3><a href='https://overextended.github.io/docs/ox_inventory/'>Read the documentation for setup, installation, and integration</a></h3></div>
 
+
+# Join discord server
+## 👉 Join the community for any support
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HWejPwZgvQ)
+
+
 # Framework
 
 The inventory was designed with the intention to move towards a more generic / standalone structure so it can be integrated into any framework without too much hassle. I will be writing a guide for manually setting up support _sometime soon™_. In the mean-time, it will work without any alterations if using the latest updates to **[ESX Legacy](https://github.com/esx-framework/esx-legacy)**.
