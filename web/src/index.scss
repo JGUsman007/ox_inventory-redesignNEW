@@ -349,7 +349,9 @@ margin-top: 1vw;
   left: 0.5vw;
   font-size: 12px;
   font-family: $mainFont;
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .item-slot-wrapper {
