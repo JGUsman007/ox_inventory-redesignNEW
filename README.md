@@ -61,7 +61,7 @@ Once you have registered, generate an API key and add `set datadog:key 'apikey'`
 - Dumpsters, drops, and non-player vehicles.
 - Loot tables allow users to find random items in dumpsters and unowned vehicles.
 
-<br><div><h4 align='center'><a href='https://discord.gg/hmcmv3P7YW'>Discord Server</a></h4></div><br>
+
 
 <table><tr><td><h3 align='center'>Legal Notices</h2></tr></td>
 <tr><td>
